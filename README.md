@@ -1,1 +1,3 @@
 # PythonIsFasterThanJava
+
+*It just is.*
